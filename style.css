@@ -202,7 +202,7 @@ padding: 30px 0;
     overflow:hidden;
 }
 .work img{
-    width: 120%;
+    width: 130%;
     border-radius: 10px;
     display: block;
     transition: transform;
@@ -398,4 +398,5 @@ nav ul .fa-solid fa{
     display: block;
 
 }
+
 
